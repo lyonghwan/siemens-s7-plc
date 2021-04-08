@@ -1,0 +1,22 @@
+{
+  "name": "siemens-s7-plc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyonghwan/siemens-s7-plc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lyonghwan/siemens-s7-plc/issues"
+  },
+  "homepage": "https://github.com/lyonghwan/siemens-s7-plc#readme",
+  "dependencies": {
+    "@st-one-io/nodes7": "^1.0.1"
+  }
+}
